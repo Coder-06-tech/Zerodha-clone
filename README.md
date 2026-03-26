@@ -125,5 +125,3 @@ Runs on:
 
 ---
 
-
-⭐ If you like this project, don’t forget to star the repo!
